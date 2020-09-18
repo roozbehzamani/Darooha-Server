@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="CloudinaryDotNet" Version="1.10.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Darooha.Repo\Darooha.Repo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Api\" />
+    <Folder Include="Site\App\" />
+  </ItemGroup>
+
+</Project>

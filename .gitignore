@@ -1,0 +1,11 @@
+.vs
+Darooha.Common/bin
+Darooha.Common/obj
+Darooha.Data/bin
+Darooha.Data/obj
+Darooha.Presentation/bin
+Darooha.Presentation/obj
+Darooha.Repo/bin
+Darooha.Repo/obj
+Darooha.Services/bin
+Darooha.Services/obj

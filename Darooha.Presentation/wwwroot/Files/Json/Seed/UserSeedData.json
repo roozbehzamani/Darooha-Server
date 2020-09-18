@@ -1,0 +1,152 @@
+[
+  {
+    "Email": "jodiepayne@quotezart.com",
+    "FirstName": "Freida Simmons",
+    "LastName": "Eunice Kim",
+    "MobPhone": "+98 (820) 524-3364",
+    "EmailConfirmCode": "(893) 429-2866",
+    "MobPhoneConfirmCode": "(922) 539-3948",
+    "EmailConfirm": true,
+    "UserEnableStatus": true,
+    "MobPhoneConfirm": true,
+    "UserName": "haysmsdfstathis@barkarama.com",
+    "BirthDate": "2000-09-01",
+    "Password": "password",
+    "Notification": [
+      {
+        "EnterEmail": true,
+        "EnterSms": false,
+        "EnterTelegram": true,
+        "ExitEmail": true,
+        "ExitSms": false,
+        "ExitTelegram": true,
+        "TicketEmail": true,
+        "TicketSms": false,
+        "TicketTelegram": true,
+        "LoginEmail": true,
+        "LoginSms": false,
+        "LoginTelegram": true
+      }
+    ]
+  },
+  {
+    "Email": "eunicekim@quotezart.com",
+    "FirstName": "Mable Hoffman",
+    "LastName": "Bertie Alexander",
+    "MobPhone": "+98 (811) 558-2095",
+    "EmailConfirmCode": "(934) 474-3947",
+    "MobPhoneConfirmCode": "(866) 476-3130",
+    "EmailConfirm": false,
+    "UserEnableStatus": false,
+    "MobPhoneConfirm": true,
+    "UserName": "haysmagfdthis@barkarama.com",
+    "BirthDate": "1973-03-09",
+    "Password": "password",
+    "Notification": [
+      {
+        "EnterEmail": true,
+        "EnterSms": false,
+        "EnterTelegram": true,
+        "ExitEmail": true,
+        "ExitSms": false,
+        "ExitTelegram": true,
+        "TicketEmail": true,
+        "TicketSms": false,
+        "TicketTelegram": true,
+        "LoginEmail": true,
+        "LoginSms": false,
+        "LoginTelegram": true
+      }
+    ]
+  },
+  {
+    "Email": "bertiealexander@quotezart.com",
+    "FirstName": "Alexis Huff",
+    "LastName": "Jordan Brooks",
+    "MobPhone": "+98 (845) 480-3608",
+    "EmailConfirmCode": "(973) 561-3306",
+    "MobPhoneConfirmCode": "(824) 563-2574",
+    "EmailConfirm": false,
+    "UserEnableStatus": false,
+    "MobPhoneConfirm": false,
+    "UserName": "haysmsdvvnthis@barkarama.com",
+    "BirthDate": "2017-06-22",
+    "Password": "password",
+    "Notification": [
+      {
+        "EnterEmail": true,
+        "EnterSms": false,
+        "EnterTelegram": true,
+        "ExitEmail": true,
+        "ExitSms": false,
+        "ExitTelegram": true,
+        "TicketEmail": true,
+        "TicketSms": false,
+        "TicketTelegram": true,
+        "LoginEmail": true,
+        "LoginSms": false,
+        "LoginTelegram": true
+      }
+    ]
+  },
+  {
+    "Email": "jordanbrooks@quotezart.com",
+    "FirstName": "Kathleen Kent",
+    "LastName": "Earnestine Santos",
+    "MobPhone": "+98 (949) 419-3234",
+    "EmailConfirmCode": "(827) 589-3061",
+    "MobPhoneConfirmCode": "(878) 564-3389",
+    "EmailConfirm": true,
+    "UserEnableStatus": false,
+    "MobPhoneConfirm": true,
+    "UserName": "haysmvcxshtjathis@barkarama.com",
+    "BirthDate": "2002-05-20",
+    "Password": "password",
+    "Notification": [
+      {
+        "EnterEmail": true,
+        "EnterSms": false,
+        "EnterTelegram": true,
+        "ExitEmail": true,
+        "ExitSms": false,
+        "ExitTelegram": true,
+        "TicketEmail": true,
+        "TicketSms": false,
+        "TicketTelegram": true,
+        "LoginEmail": true,
+        "LoginSms": false,
+        "LoginTelegram": true
+      }
+    ]
+  },
+  {
+    "Email": "earnestinesantos@quotezart.com",
+    "FirstName": "Tisha Hardin",
+    "LastName": "Brooke Macias",
+    "MobPhone": "+98 (955) 579-2737",
+    "EmailConfirmCode": "(950) 435-2916",
+    "MobPhoneConfirmCode": "(954) 475-3026",
+    "EmailConfirm": false,
+    "UserEnableStatus": false,
+    "MobPhoneConfirm": true,
+    "UserName": "haycxvcvnjtrjhdfsmathis@barkarama.com",
+    "BirthDate": "1976-01-28",
+    "Password": "password",
+    "Notification": [
+      {
+        "EnterEmail": true,
+        "EnterSms": false,
+        "EnterTelegram": true,
+        "ExitEmail": true,
+        "ExitSms": false,
+        "ExitTelegram": true,
+        "TicketEmail": true,
+        "TicketSms": false,
+        "TicketTelegram": true,
+        "LoginEmail": true,
+        "LoginSms": false,
+        "LoginTelegram": true
+      }
+    ]
+  }
+]
